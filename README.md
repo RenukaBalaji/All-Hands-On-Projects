@@ -7,11 +7,15 @@ Welcome to my GitHub repository! Here, you'll find a collection of projects rela
 
 <h3> Supervised Learning </h3>
 1. Predict Patient's Medical Condition based on received test results 
+2. Increase the bank loan borrowers with imbalanced input dataset and fine tune the model using best parameters
 
-Unsupervised Learning - Vehicle Fuel Consumption 
-Statistical Analysis 
-Feature Engineering and Tuning -
-Semiconductor Manufacturing 
+<h3> Unsupervised Learning </h3>
+1. Vehicle Fuel Consumption 
+
+<h3> Statistical Analysis </h3>
+
+<h3> Feature Engineering and Tuning</h3>
+1. Semiconductor Manufacturing Process
 
 # Deep Learning
 
