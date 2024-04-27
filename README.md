@@ -1,5 +1,3 @@
-# All-Hands-On-Projects
-
 # Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing Projects
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects related to machine learning, deep learning, computer vision, and natural language processing. These projects cover a wide range of topics and applications, showcasing my skills and interests in the field of artificial intelligence.
