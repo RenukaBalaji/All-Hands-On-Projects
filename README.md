@@ -5,7 +5,7 @@
 3. config/configuration.py
 4. components
 5. pipeline
-6. mail.py
+6. main.py
 7. app.py
 
 
